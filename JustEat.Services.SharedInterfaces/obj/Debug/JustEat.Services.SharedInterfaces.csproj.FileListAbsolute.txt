@@ -1,0 +1,16 @@
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.SharedInterfaces\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.SharedInterfaces\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.SharedInterfaces\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.SharedInterfaces\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.csprojResolveAssemblyReference.cache
+C:\WIP\JERecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.SharedInterfaces\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.SharedInterfaces\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.csprojAssemblyReference.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.SharedInterfaces\obj\Debug\JustEat.Services.SharedInterfaces.csproj.CoreCompileInputs.cache

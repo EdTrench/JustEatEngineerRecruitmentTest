@@ -1,0 +1,6 @@
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEatEngineerRecruitmentTest\bin\Debug\JustEatEngineerRecruitmentTest.exe.config
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEatEngineerRecruitmentTest\bin\Debug\JustEatEngineerRecruitmentTest.exe
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEatEngineerRecruitmentTest\bin\Debug\JustEatEngineerRecruitmentTest.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEatEngineerRecruitmentTest\obj\Debug\Services1.csprojResolveAssemblyReference.cache
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEatEngineerRecruitmentTest\obj\Debug\JustEatEngineerRecruitmentTest.exe
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEatEngineerRecruitmentTest\obj\Debug\JustEatEngineerRecruitmentTest.pdb

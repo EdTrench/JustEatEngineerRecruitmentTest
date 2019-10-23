@@ -1,0 +1,23 @@
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.csprojResolveAssemblyReference.cache
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.csprojAssemblyReference.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic.Interfaces\obj\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.csproj.CopyComplete

@@ -1,0 +1,2 @@
+C:\Users\etrenchard\AppData\Local\Temporary Projects\JustEatEngineerRecruitmentTest\bin\Debug\JustEatEngineerRecruitmentTest.exe.config
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEatEngineerRecruitmentTest\bin\Debug\JustEatEngineerRecruitmentTest.exe.config

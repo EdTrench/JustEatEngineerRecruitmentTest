@@ -1,0 +1,53 @@
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.dll.config
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csproj.App.config
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.dll.config
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Extensions.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Primitives.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Extensions.xml
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Primitives.xml
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csproj.App.config
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.dll
+C:\WIP\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.dll.config
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csproj.App.config
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Services.BusinessLogic\obj\Debug\JustEat.Services.BusinessLogic.csproj.CopyComplete

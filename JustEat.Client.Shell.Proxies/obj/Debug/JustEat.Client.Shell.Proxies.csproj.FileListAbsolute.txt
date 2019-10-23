@@ -1,0 +1,29 @@
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.Shell.Proxies.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.csprojResolveAssemblyReference.cache
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.Shell.Proxies.dll
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.csprojResolveAssemblyReference.cache
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.dll
+C:\WIP\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.Shell.Proxies.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.csprojAssemblyReference.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.csproj.CoreCompileInputs.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.Shell.Proxies\obj\Debug\JustEat.Client.Shell.Proxies.csproj.CopyComplete

@@ -1,0 +1,23 @@
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.pdb
+C:\WIP\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\WIP\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\WIP\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\WIP\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.dll
+C:\WIP\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\JustEat.Client.ServiceContracts\obj\Debug\JustEat.Client.ServiceContracts.csproj.CopyComplete

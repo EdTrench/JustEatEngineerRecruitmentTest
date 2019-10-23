@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Client.Shell", "Client\JustEat.Client.Shell.csproj", "{F723F0F8-A841-44C3-993C-CB29EA0BE542}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{17902A76-F827-4B93-8B74-BD02D0982CAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{631343B5-35D9-4D02-84E8-4E7EDE6BA05F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D5F3C5ED-A7BE-4177-A638-B26A2CB87B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Client.ServiceContracts", "JustEat.Client.ServiceContracts\JustEat.Client.ServiceContracts.csproj", "{C01D8B69-11E3-426C-9718-5065A8B89C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Client.Shell.Proxies", "JustEat.Client.Shell.Proxies\JustEat.Client.Shell.Proxies.csproj", "{88716CE8-98CB-46B4-9A64-182324C8D33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Services.BusinessLogic", "JustEat.Services.BusinessLogic\JustEat.Services.BusinessLogic.csproj", "{A07734B9-0B77-4243-9060-04F258442411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Services", "JustEat.Services\JustEat.Services.csproj", "{D6AFD558-DD9C-43B8-96A0-B17E64BD151E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Services.BusinessLogic.SharedInterfaces", "JustEat.Services.BusinessLogic.Interfaces\JustEat.Services.BusinessLogic.SharedInterfaces.csproj", "{4545F84F-9BC8-4C4F-B5C0-EB0F23541571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Services.SharedInterfaces", "JustEat.Services.SharedInterfaces\JustEat.Services.SharedInterfaces.csproj", "{BFD89E04-218A-45B4-B96B-3D537C238D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustEat.Services.BusinessLogic.Tests", "JustEat.Services.BusinessLogic.Tests\JustEat.Services.BusinessLogic.Tests.csproj", "{38D18ADC-693A-4991-B9ED-E8A597F2D4AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F723F0F8-A841-44C3-993C-CB29EA0BE542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F723F0F8-A841-44C3-993C-CB29EA0BE542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F723F0F8-A841-44C3-993C-CB29EA0BE542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F723F0F8-A841-44C3-993C-CB29EA0BE542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01D8B69-11E3-426C-9718-5065A8B89C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01D8B69-11E3-426C-9718-5065A8B89C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01D8B69-11E3-426C-9718-5065A8B89C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01D8B69-11E3-426C-9718-5065A8B89C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88716CE8-98CB-46B4-9A64-182324C8D33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88716CE8-98CB-46B4-9A64-182324C8D33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88716CE8-98CB-46B4-9A64-182324C8D33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88716CE8-98CB-46B4-9A64-182324C8D33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07734B9-0B77-4243-9060-04F258442411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07734B9-0B77-4243-9060-04F258442411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07734B9-0B77-4243-9060-04F258442411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07734B9-0B77-4243-9060-04F258442411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AFD558-DD9C-43B8-96A0-B17E64BD151E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AFD558-DD9C-43B8-96A0-B17E64BD151E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AFD558-DD9C-43B8-96A0-B17E64BD151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AFD558-DD9C-43B8-96A0-B17E64BD151E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4545F84F-9BC8-4C4F-B5C0-EB0F23541571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4545F84F-9BC8-4C4F-B5C0-EB0F23541571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4545F84F-9BC8-4C4F-B5C0-EB0F23541571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4545F84F-9BC8-4C4F-B5C0-EB0F23541571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD89E04-218A-45B4-B96B-3D537C238D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD89E04-218A-45B4-B96B-3D537C238D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD89E04-218A-45B4-B96B-3D537C238D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD89E04-218A-45B4-B96B-3D537C238D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D18ADC-693A-4991-B9ED-E8A597F2D4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D18ADC-693A-4991-B9ED-E8A597F2D4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D18ADC-693A-4991-B9ED-E8A597F2D4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D18ADC-693A-4991-B9ED-E8A597F2D4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F723F0F8-A841-44C3-993C-CB29EA0BE542} = {17902A76-F827-4B93-8B74-BD02D0982CAB}
+		{C01D8B69-11E3-426C-9718-5065A8B89C90} = {17902A76-F827-4B93-8B74-BD02D0982CAB}
+		{88716CE8-98CB-46B4-9A64-182324C8D33E} = {17902A76-F827-4B93-8B74-BD02D0982CAB}
+		{A07734B9-0B77-4243-9060-04F258442411} = {631343B5-35D9-4D02-84E8-4E7EDE6BA05F}
+		{D6AFD558-DD9C-43B8-96A0-B17E64BD151E} = {631343B5-35D9-4D02-84E8-4E7EDE6BA05F}
+		{4545F84F-9BC8-4C4F-B5C0-EB0F23541571} = {631343B5-35D9-4D02-84E8-4E7EDE6BA05F}
+		{BFD89E04-218A-45B4-B96B-3D537C238D4C} = {631343B5-35D9-4D02-84E8-4E7EDE6BA05F}
+		{38D18ADC-693A-4991-B9ED-E8A597F2D4AE} = {D5F3C5ED-A7BE-4177-A638-B26A2CB87B0C}
+	EndGlobalSection
+EndGlobal

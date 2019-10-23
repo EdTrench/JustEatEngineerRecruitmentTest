@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\JustEat.Services",
+    "\\JustEat.Services.BusinessLogic",
+    "\\JustEat.Services.BusinessLogic.Tests",
+    "\\JustEatEngineerRecruitmentTest"
+  ],
+  "SelectedNode": "\\Client\\JustEatBootStrapper.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,129 @@
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.csprojResolveAssemblyReference.cache
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.Proxies.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Services.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.exe.config
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.exe
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.exe
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\AutoMapper.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\AutoMapper.xml
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\FluentValidation.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\FluentValidation.pdb
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\FluentValidation.xml
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\etrenchard\Documents\Visual Studio 2015\Projects\JustEatEngineerRecruitmentTest\Client\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.exe.config
+C:\WIP\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.exe
+C:\WIP\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.exe
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\AutoMapper.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\FluentValidation.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.Proxies.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\Newtonsoft.Json.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\JustEat.Services.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\AutoMapper.xml
+C:\WIP\JERecruitmentTest\Client\bin\Debug\FluentValidation.pdb
+C:\WIP\JERecruitmentTest\Client\bin\Debug\FluentValidation.xml
+C:\WIP\JERecruitmentTest\Client\bin\Debug\Newtonsoft.Json.xml
+C:\WIP\JERecruitmentTest\Client\bin\Debug\cs\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\da\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\de\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\es\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\fa\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\fi\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\fr\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\it\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\ko\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\mk\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\nl\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\pl\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\pt\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\ru\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\sv\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\tr\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\WIP\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.csprojResolveAssemblyReference.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.exe.config
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.exe
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.exe
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\AutoMapper.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\FluentValidation.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Client.ServiceContracts.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.Proxies.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.SharedInterfaces.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Client.ServiceContracts.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Client.Shell.Proxies.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.SharedInterfaces.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\AutoMapper.xml
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\FluentValidation.pdb
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\FluentValidation.xml
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\cs\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\fa\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\mk\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\bin\Debug\JustEat.Services.BusinessLogic.dll.config
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.csprojAssemblyReference.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.csproj.CoreCompileInputs.cache
+C:\Users\Edward.Trenchard\JERecruitmentTest\Client\obj\Debug\JustEat.Client.Shell.csproj.CopyComplete
